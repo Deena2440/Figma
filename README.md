@@ -166,7 +166,8 @@ page 3
 
 ## OUTPUT:
 
-![Screenshot 2025-04-24 093408](https://github.com/user-attachments/assets/028df9ae-2c85-400d-8ba2-e6698733a1be)
+![image](https://github.com/user-attachments/assets/b9ed941a-d3d9-4d96-a18a-05e02d976c32)
+1be)
 
 
 ## RESULT:
